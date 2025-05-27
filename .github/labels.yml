@@ -1,0 +1,27 @@
+- name: Feat
+  color: '1d76db'
+  description: 새로운 기능 추가
+
+- name: Fix
+  color: 'd73a4a'
+  description: 버그 수정
+
+- name: Docs
+  color: '0075ca'
+  description: 문서 변경
+
+- name: Style
+  color: 'cfd3d7'
+  description: 코드 스타일/포맷팅
+
+- name: Refactor
+  color: 'e4e669'
+  description: 리팩토링
+
+- name: Test
+  color: '0e8a16'
+  description: 테스트 추가/수정
+
+- name: Chore
+  color: 'fbca04'
+  description: 빌드/설정/기타 작업
